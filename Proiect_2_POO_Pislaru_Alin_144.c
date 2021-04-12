@@ -14,7 +14,7 @@ class Nod_dublu
 class Lista
 {
 
-};
+};asd
 
 class Lista_Circulara
 {
